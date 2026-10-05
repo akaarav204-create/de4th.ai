@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+.venv/
+node_modules/
+
+venv/
+data/*.db
+data/vector_memory/
+database/*.db
+logs/*.log
+sounds/output.*
+Downloads - Shortcut.lnk

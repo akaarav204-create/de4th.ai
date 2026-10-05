@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@capacitor/camera": "^8.2.0",
+    "@capacitor/device": "^8.0.2",
+    "@capacitor/local-notifications": "^8.2.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "axios": "^1.17.0",
+    "framer-motion": "^12.40.0",
+    "react-router-dom": "^7.17.0",
+    "react-speech-recognition": "^4.0.1",
+    "react-swipeable": "^7.0.2"
+  }
+}
